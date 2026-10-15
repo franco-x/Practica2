@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_noticia2.png.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/noticia2.png"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_search.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_activity_contactos.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/activity_contactos.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_logo.png.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_person.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_activity_perfil.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_mail.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_globe.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_globe.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/menu_menu_general.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/menu/menu_general.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_activity_noticias.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/activity_noticias.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_profile.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_logo_news.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_logo_news.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_item_contacto.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/item_contacto.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_placeholder.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_noticia1.png.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/noticia1.png"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_bg_input.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/menu_menu_perfil.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/menu/menu_perfil.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/menu_menu_contextual_contacto.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/menu/menu_contextual_contacto.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_bell.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_item_noticia.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/item_noticia.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-debug-32:/layout_item_contacto.xml.flat",
+        "source": "com.example.practica2.app-main-34:/layout/item_contacto.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_news.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_news.xml"
+    },
+    {
+        "merged": "com.example.practica2.app-debug-32:/menu_menu_contextual_contacto.xml.flat",
+        "source": "com.example.practica2.app-main-34:/menu/menu_contextual_contacto.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_arrow_back.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_location.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/layout_activity_privacidad.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/layout/activity_privacidad.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_share.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-debug-32:/drawable_ic_profile_outline.xml.flat",
+        "source": "/Users/alumnotecsup/.gradle/daemon/8.7/com.example.practica2.app-main-34:/drawable/ic_profile_outline.xml"
+    }
+]

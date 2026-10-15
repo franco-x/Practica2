@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="24dp">
+
+    <!-- Imagen de la noticia -->
+    <ImageView
+        android:id="@+id/ivNoticia"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/noticia1" />
+
+    <!-- Fila con Icono celeste y Título -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="12dp">
+
+        <ImageView
+            android:id="@+id/ivIconoNoticia"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:src="@drawable/ic_news"
+            app:tint="#26C6DA" />
+
+        <TextView
+            android:id="@+id/tvTituloNoticia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Apple Vision Pro"
+            android:textColor="#090F26"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- Texto descriptivo -->
+    <TextView
+        android:id="@+id/tvDescripcionNoticia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="This 80-foot-tall waterfall on the coast of Big Sur in central California that flows year-round from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel."
+        android:textColor="#262833"
+        android:textSize="12sp"
+        android:lineSpacingExtra="3dp" />
+
+
+
+</LinearLayout>

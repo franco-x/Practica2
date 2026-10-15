@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Practica2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/turquesa_icono</item>
+        <item name="colorPrimaryVariant">@color/turquesa_icono</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/turquesa_icono</item>
+        <item name="colorOnSecondary">@color/blanco</item>
+        <item name="android:statusBarColor">@color/blanco</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/blanco</item>
+    </style>
+</resources>
